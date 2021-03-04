@@ -1,4 +1,4 @@
-# An exercise based on chapter 1, Cracking the Oyster, of Programming Pearls by Jon Bentley
+# An exercise based on chapter 1, _Cracking the Oyster_, of _Programming Pearls_ by Jon Bentley
 
 ## A system used for political redistricting reads in files that correspond to political districts. The contents of the files are integers representing precincts. The range of precinct numbers if from 1 to 27000. No precinct number can appear twice in the same district.
 
