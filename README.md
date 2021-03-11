@@ -8,7 +8,7 @@
 
 ## Precise problem statement:
 
-### Input: A file containing at most 27000 integers in the rance 1..27000. It is a fatal error condition if any integer appears twice in the input. No other data is associated with the integer.
+### Input: A file containing at most 27000 integers in the range 1..27000. It is a fatal error condition if any integer appears twice in the input. No other data is associated with the integer.
 
 ### Output: A sorted list in increasing order of the input integers.
 
