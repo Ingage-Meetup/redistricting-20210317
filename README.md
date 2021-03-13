@@ -10,8 +10,8 @@
 
 ### Input: A file containing at most 27000 integers in the range 1..27000. It is a fatal error condition if any integer appears twice in the input. No other data is associated with the integer.
 
-#### Note: The original article from the August 1986 edition of the Communications of the ACM is included in the repo as a pdf.
-
 ### Output: A sorted list in increasing order of the input integers.
 
 ### Constraints: Internal storage is available for at most 1000 integers. Ample disk storage is available.
+
+#### Note: The original article from the August 1986 edition of the Communications of the ACM is included in the repo as a pdf.
